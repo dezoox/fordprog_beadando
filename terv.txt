@@ -1,0 +1,34 @@
+A program egy kifejezést értékel ki, hogy egy általam megadott szabályrendszerben megállja-e a helyét. A kifejezés végén kötelezõen "#" áll.
+
+A kifejezésben szereplõ karakterek: i, (, ), +, *, #
+
+A kiertékelõ program egy táblázat alapján fog mûködni, melynek elsõ sora nem terminális jeleket, elsõ oszlopa pedig terminális és nem terminális jeleket is fognak tartalmazni. Maga a kifejezést egy veremben fogom tárolni. Azonos nem terminális jelnél az aktuálisan kiolvasott jelet kiveszem a verembõl, ez lesz mindig a verem tetején. Üres cellához érkezéskor a program megáll, mert ebben az esetben a kifejezés helytelen, vagy a létrehozott szabályrendszer nem definiálja a lépést.
+
+Elõfeltétel a megadott szabályrendszer definiálása, amit .csv fájlból beolvas a program, és ez feltölt majd egy datagridview-t.
+
+Lesz egy úgynevezett "hármas" egy külön osztályba, ami egy egy lépést fog tartalmazni. Ilyen hármas példa:
+(kifejezés #, szabályok #, felhasznált szabályok sorszáma). Mindig a kifejezés elsõ karakterét (ami a verem tetején van) olvassuk ki, és megnézzük a szabály elsõ nem terminális jelét, ennek a kettõnek a metszetét megkeressük a táblázatban a sor és oszlop alapján. A szabály aktuális terminális jelét kicseréljük a metszetben található szabály jeleire (mindre, ha több is van). Ha az olvasott nem terminális jel, és a kifejezés aktuális karaktere is ugyanaz, akkor van "pop" mûvelet, azaz kivesszük a kifejezés karakterét a kifejezésbõl, és a következõ karakterrel folytatjuk tovább. A mûvelet akkor ér véget, ha üres cellát olvasunk, vagy ha mindkét beolvasott jel "#".
+
+Expression osztály
+-first part  (ez a kifejezés lesz stringben tárolva)
+-second part ( ez a szabályok lesznek stringben tárolva)
+-third part (ezek a számok lesznek szintén stringbe tárolva)
+
+csv importálást végzõ osztály:
+-import metódus
+
+mûvelet végzõ osztály:
+-analizáló metódus, mely a konkrét kiértékelést végzi
+-konstruktorba paraméterül kapja a formot, hogy tudjon kommunikálni vele
+-egy veremben tárolom a kifejezést
+
+Winformos osztály
+-megjelenítést produkálja
+-objektum összetétellel befecskendezem az analizátor osztályt
+
+
+
+
+
+
+

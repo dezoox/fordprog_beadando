@@ -1,0 +1,58 @@
+D:\KurtaGabor\KG_forditoprog\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe.config
+D:\KurtaGabor\KG_forditoprog\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe
+D:\KurtaGabor\KG_forditoprog\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.pdb
+D:\KurtaGabor\KG_forditoprog\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csprojAssemblyReference.cache
+D:\KurtaGabor\KG_forditoprog\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.MainForm.resources
+D:\KurtaGabor\KG_forditoprog\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.Properties.Resources.resources
+D:\KurtaGabor\KG_forditoprog\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csproj.GenerateResource.cache
+D:\KurtaGabor\KG_forditoprog\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csproj.CoreCompileInputs.cache
+D:\KurtaGabor\KG_forditoprog\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.exe
+D:\KurtaGabor\KG_forditoprog\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.pdb
+E:\programok\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csprojAssemblyReference.cache
+E:\programok\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.MainForm.resources
+E:\programok\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.Properties.Resources.resources
+E:\programok\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csproj.GenerateResource.cache
+E:\programok\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csproj.CoreCompileInputs.cache
+E:\programok\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.exe
+E:\programok\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.pdb
+E:\programok\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe.config
+E:\programok\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe
+E:\programok\Beadando\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.pdb
+D:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe.config
+D:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.exe
+D:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.pdb
+D:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe
+D:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.pdb
+D:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csprojResolveAssemblyReference.cache
+D:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.MainForm.resources
+D:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.Properties.Resources.resources
+D:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\otodik felev\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\otodik felev\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.MainForm.resources
+C:\Users\Lenovo\Desktop\otodik felev\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\otodik felev\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\otodik felev\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\otodik felev\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.exe
+C:\Users\Lenovo\Desktop\otodik felev\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.pdb
+C:\Users\Lenovo\Desktop\otodik felev\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe.config
+C:\Users\Lenovo\Desktop\otodik felev\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe
+C:\Users\Lenovo\Desktop\otodik felev\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.pdb
+E:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe.config
+E:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.exe
+E:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.pdb
+E:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe
+E:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.pdb
+E:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csprojResolveAssemblyReference.cache
+E:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.MainForm.resources
+E:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.Properties.Resources.resources
+E:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csproj.GenerateResource.Cache
+G:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe.config
+G:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.exe
+G:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\bin\Debug\KifejezesKiertekelo.pdb
+G:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csprojAssemblyReference.cache
+G:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.MainForm.resources
+G:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.Properties.Resources.resources
+G:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csproj.GenerateResource.cache
+G:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.csproj.CoreCompileInputs.cache
+G:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.exe
+G:\KurtaGabor\KG_forditoprog\KifejezesKiertekelo\KifejezesKiertekelo\obj\Debug\KifejezesKiertekelo.pdb
